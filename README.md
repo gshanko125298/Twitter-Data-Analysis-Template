@@ -18,7 +18,7 @@
 10. Use github actions in your repository such that when you git push new code (or merge a branch) to the main branch, the unit test in tests/*.py runs automatically. All tests should pass.
 
 
-After Completing this Challenge, you would have explore  
+After Completing this Challenge, we would have explore the following:
 
 - Unittesting
 - Modular Coding
